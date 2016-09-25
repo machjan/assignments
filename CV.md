@@ -13,8 +13,7 @@
 <p>&nbsp;</p>
 <div style="clear:both;">
 	&nbsp;</div>
-<p><span style="font-size:30px;"><strong>Bc. Jan Mach&aacute;ček</strong></span></p>
-<p>&nbsp;</p>
+#<strong>Bc. Jan Mach&aacute;ček</strong>
 ##Work Experience
 <p><span style="font-size:12px;">4/2015 &ndash; 8/2016: <strong>ČEZ Energetick&eacute; produkty, s.r.o.</strong><br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assistant</span></p>
