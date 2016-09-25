@@ -1,7 +1,7 @@
-<table align="right" cellpadding="0" cellspacing="0" hspace="0" vspace="0">
+<table align="left" cellpadding="0" cellspacing="0" hspace="0" vspace="0">
 	<tbody>
 		<tr>
-			<td align="right">
+			<td align="left">
 				<p style="text-align: right;">Date of birth: 24 June, 1993<br />
 				Phone: +420&nbsp;737&nbsp;969&nbsp;543<br />
 				E-mail: jan8machacek@seznam.cz<br />
@@ -13,7 +13,7 @@
 <p>&nbsp;</p>
 <div style="clear:both;">
 	&nbsp;</div>
-<p><span style="font-size:20px;"><strong>Bc. Jan Mach&aacute;ček</strong></span></p>
+<p><span style="font-size:30px;"><strong>Bc. Jan Mach&aacute;ček</strong></span></p>
 <p>&nbsp;</p>
 <p><strong><font size="50">Work Experience</font></strong></p>
 <p><span style="font-size:12px;">4/2015 &ndash; 8/2016: <strong>ČEZ Energetick&eacute; produkty, s.r.o.</strong><br />
