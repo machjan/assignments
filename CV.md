@@ -7,62 +7,63 @@
 <li>Analysing internal data</li>
 <li>Accounting administration</li>
 </ul>
-<p><span style="font-size:12px;">3/2015 &ndash; 5/2015: <strong>AIESEC Prague</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Seller</span></p>
+3/2015 &ndash; 5/2015: <strong>AIESEC Prague</strong><br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Seller
 <ul>
-<li><span style="font-size:12px;">Selling foreign workers to Czech companies</span></li>
+<li>Selling foreign workers to Czech companies</li>
 </ul>
-<p><span style="font-size:12px;">2/2015 &ndash; 5/2015: <strong>Czech Chamber of Commerce</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Business Support Intern</span></p>
+2/2015 &ndash; 5/2015: <strong>Czech Chamber of Commerce</strong><br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Business Support Intern
 <ul>
-<li><span style="font-size:12px;">Certification of international trade documents</span></li>
-<li><span style="font-size:12px;">Creating ATA countries internal database</span></li>
-<li><span style="font-size:12px;">Consular legalization</span></li>
-<li><span style="font-size:12px;">CzechPOINT assistance</span></li>
+<li>Certification of international trade documents</li>
+<li>Creating ATA countries internal database</li>
+<li>Consular legalization</li>
+<li>CzechPOINT assistance</li>
 </ul>
-<p><span style="font-size:12px;">7/2014 &ndash; 8/2014: <strong>AMI Communications, spol. s r.o.</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PR Intern</span></p>
+7/2014 &ndash; 8/2014: <strong>AMI Communications, spol. s r.o.</strong><br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PR Intern
 <ul>
-<li><span style="font-size:12px;">Writing PR articles and press releases</span></li>
+<li>Writing PR articles and press releases</li>
 <li>Creating new PR campaigns and strategies</li>
-<li><span style="font-size:12px;">Media and social networks monitoring</span></li>
-<li><span style="font-size:12px;">Administrative and office support</span></li>
+<li>Media and social networks monitoring</li>
+<li>Administrative and office support</li>
 </ul>
-<p><span style="font-size:12px;">3/2014 &ndash; 6/2014: <strong>AIESEC Prague</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Project Coordinator</span></p>
+3/2014 &ndash; 6/2014: <strong>AIESEC Prague</strong><br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Project Coordinator
 <ul>
-<li><span style="font-size:12px;">Organizing multicultural project EDISON for elementary and high schools</span></li>
+<li>Organizing multicultural project EDISON for elementary and high schools</li>
 </ul>
 <p>&nbsp;</p>
 ##Education
-<p><span style="font-size:12px;">2016 &ndash; 2017: <strong>Tilburg University</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Economics, MSc</span></p>
-<p>2012 &ndash; 2016: <strong>University of Economics, Prague</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Economics, Bc.</p>
-<p><span style="font-size:12px;">2014 &ndash; 2015: <strong>Hochschule Luzern</strong><br />
+2016 &ndash; 2017: <strong>Tilburg University</strong><br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Economics, MSc
+2012 &ndash; 2016: <strong>University of Economics, Prague</strong><br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Economics, Bc.
+2014 &ndash; 2015: <strong>Hochschule Luzern</strong><br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;International Management &amp; Economics<br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Swiss European Mobility Programme</span></p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Swiss European Mobility Programme
 <p>&nbsp;</p>
 ##Certificates
-<p><span style="font-size:12px;">2015: <strong>Certificate i</strong></span><strong>n Advanced English&nbsp;(CAE)</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Score: 191 (C1)</p>
-<p><span style="font-size:12px;">2011: <strong>European driving licence (category B)</strong></span></p>
+2015: <strong>Certificate in Advanced English&nbsp;(CAE)</strong><br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Score: 191 (C1)
+2011: <strong>European driving licence (category B)</strong>
 <p>&nbsp;</p>
 ##Other Knowledge and Skills
-<p><span style="font-size:12px;"><strong>Language Skills</strong></span></p>
+<strong>Language Skills</strong>
 <ul>
 <li>Czech (native)</li>
 <li>English C1</li>
-<li><span style="font-size:12px;">German A2</span></li>
+<li>German A2</li>
 </ul>
-<p><strong><span style="font-size:12px;">Computer Skills</span></strong></p>
-<p><span style="font-size:12px;">MS Office 365,&nbsp;</span>CRM databases, Money S5<br />
-<span style="font-size:12px;"> MS Excel: VBA programming, Pivot Tables, Advanced Filters<br />
-Econometric software: EViews, Stata, Gretl</span></p>
-<p><span style="font-size:12px;"><strong>Summer Camp Leader</strong> (</span>2011-2013)</p>
-<p><strong><span style="font-size:12px;">Hobbies and Interests</span></strong></p>
-<p><span style="font-size:12px;">Economic and political history, worldwide economic development, labour market, human capital</span></p>
-<p><span style="font-size:12px;">Sports: cycling, rock climbing, running, Street Workout, cross-country skiing, Krav Maga</span></p>
+<strong>Computer Skills</strong>
+MS Office 365, CRM databases, Money S5<br />
+MS Excel: VBA programming, Pivot Tables, Advanced Filters<br />
+Econometric software: EViews, Stata, Gretl
+<strong>Summer Camp Leader</strong> (2011-2013)
+<strong>Hobbies and Interests</strong>
+Economic and political history, worldwide economic development, labour market, human capital
+Sports: cycling, rock climbing, running, Street Workout, cross-country skiing, Krav Maga
+<p>&nbsp;</p>
 <table align="right" cellpadding="0" cellspacing="0" hspace="0" vspace="0">
 	<tbody>
 		<tr>
