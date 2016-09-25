@@ -1,4 +1,4 @@
-#<strong>Bc. Jan Mach&aacute;ček</strong>
+#<strong>Bc. Jan Macháček</strong>
 ##Work Experience
 4/2015 &ndash; 8/2016: <strong>ČEZ Energetick&eacute; produkty, s.r.o.</strong><br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assistant
