@@ -1,17 +1,3 @@
-<table align="right" cellpadding="0" cellspacing="0" hspace="0" vspace="0">
-	<tbody>
-		<tr>
-			<td align="right">
-				<p style="text-align: right;">Date of birth: 24 June, 1993<br />
-				Phone: +420&nbsp;737&nbsp;969&nbsp;543<br />
-				E-mail: jan8machacek@seznam.cz<br />
-				LinkedIn: http://cz.linkedin.com/in/machacekjan</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<p>&nbsp;</p>
-<div style="clear:both;"></div>
 #<strong>Bc. Jan Mach&aacute;ček</strong>
 ##Work Experience
 <p><span style="font-size:12px;">4/2015 &ndash; 8/2016: <strong>ČEZ Energetick&eacute; produkty, s.r.o.</strong><br />
@@ -77,4 +63,16 @@ Econometric software: EViews, Stata, Gretl</span></p>
 <p><strong><span style="font-size:12px;">Hobbies and Interests</span></strong></p>
 <p><span style="font-size:12px;">Economic and political history, worldwide economic development, labour market, human capital</span></p>
 <p><span style="font-size:12px;">Sports: cycling, rock climbing, running, Street Workout, cross-country skiing, Krav Maga</span></p>
-
+<table align="right" cellpadding="0" cellspacing="0" hspace="0" vspace="0">
+	<tbody>
+		<tr>
+			<td align="right">
+				<p style="text-align: right;">Date of birth: 24 June, 1993<br />
+				Phone: +420&nbsp;737&nbsp;969&nbsp;543<br />
+				E-mail: jan8machacek@seznam.cz<br />
+				LinkedIn: http://cz.linkedin.com/in/machacekjan</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear:both;"></div>
