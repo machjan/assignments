@@ -1,11 +1,11 @@
 #<strong>Bc. Jan Mach&aacute;ček</strong>
 ##Work Experience
-4/2015 &ndash; 8/2016: <strong>ČEZ Energetick&eacute; produkty, s.r.o.</strong>
+4/2015 &ndash; 8/2016: <strong>ČEZ Energetick&eacute; produkty, s.r.o.</strong><br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assistant
 <ul>
-<li><span style="font-size:12px;">Creating framework contracts</span></li>
-<li><span style="font-size:12px;">Analysing internal data</span></li>
-<li><span style="font-size:12px;">Accounting administration</span></li>
+<li>Creating framework contracts</li>
+<li>Analysing internal data</li>
+<li>Accounting administration</li>
 </ul>
 <p><span style="font-size:12px;">3/2015 &ndash; 5/2015: <strong>AIESEC Prague</strong><br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Seller</span></p>
