@@ -22,7 +22,7 @@
 <li><span style="font-size:12px;">Accounting administration</span></li>
 </ul>
 <p><span style="font-size:12px;">3/2015 &ndash; 5/2015: <strong>AIESEC Prague</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Seller</span></p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Seller</span></p>
 <ul>
 <li><span style="font-size:12px;">Selling foreign workers to Czech companies</span></li>
 </ul>
