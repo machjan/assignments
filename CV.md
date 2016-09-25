@@ -11,8 +11,7 @@
 	</tbody>
 </table>
 <p>&nbsp;</p>
-<div style="clear:both;">
-	&nbsp;</div>
+<div style="clear:both;"></div>
 #<strong>Bc. Jan Mach&aacute;ček</strong>
 ##Work Experience
 <p><span style="font-size:12px;">4/2015 &ndash; 8/2016: <strong>ČEZ Energetick&eacute; produkty, s.r.o.</strong><br />
@@ -49,7 +48,7 @@
 <li><span style="font-size:12px;">Organizing multicultural project EDISON for elementary and high schools</span></li>
 </ul>
 <p>&nbsp;</p>
-<p><strong><span style="font-size:16px;">Education</span></strong></p>
+##Education
 <p><span style="font-size:12px;">2016 &ndash; 2017: <strong>Tilburg University</strong><br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Economics, MSc</span></p>
 <p>2012 &ndash; 2016: <strong>University of Economics, Prague</strong><br />
@@ -58,12 +57,12 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;International Management &amp; Economics<br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Swiss European Mobility Programme</span></p>
 <p>&nbsp;</p>
-<p><span style="font-size:16px;"><strong>Certificates</strong></span></p>
+##Certificates
 <p><span style="font-size:12px;">2015: <strong>Certificate i</strong></span><strong>n Advanced English&nbsp;(CAE)</strong><br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Score: 191 (C1)</p>
 <p><span style="font-size:12px;">2011: <strong>European driving licence (category B)</strong></span></p>
 <p>&nbsp;</p>
-<p><span style="font-size:16px;"><strong>Other Knowledge and Skills</strong></span></p>
+##Other Knowledge and Skills
 <p><span style="font-size:12px;"><strong>Language Skills</strong></span></p>
 <ul>
 <li>Czech (native)</li>
