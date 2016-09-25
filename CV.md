@@ -35,13 +35,13 @@
 </ul>
 <p>&nbsp;</p>
 ##Education
-2016 &ndash; 2017: <strong>Tilburg University</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Economics, MSc
-2012 &ndash; 2016: <strong>University of Economics, Prague</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Economics, Bc.
-2014 &ndash; 2015: <strong>Hochschule Luzern</strong><br />
+<p>2016 &ndash; 2017: <strong>Tilburg University</strong><br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Economics, MSc</p>
+<p>2012 &ndash; 2016: <strong>University of Economics, Prague</strong><br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Economics, Bc.</p>
+<p>2014 &ndash; 2015: <strong>Hochschule Luzern</strong><br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;International Management &amp; Economics<br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Swiss European Mobility Programme
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Swiss European Mobility Programme</p>
 <p>&nbsp;</p>
 ##Certificates
 2015: <strong>Certificate in Advanced English&nbsp;(CAE)</strong><br />
