@@ -1,7 +1,7 @@
-<table align="left" cellpadding="0" cellspacing="0" hspace="0" vspace="0">
+<table align="right" cellpadding="0" cellspacing="0" hspace="0" vspace="0">
 	<tbody>
 		<tr>
-			<td align="left">
+			<td align="right">
 				<p style="text-align: right;">Date of birth: 24 June, 1993<br />
 				Phone: +420&nbsp;737&nbsp;969&nbsp;543<br />
 				E-mail: jan8machacek@seznam.cz<br />
