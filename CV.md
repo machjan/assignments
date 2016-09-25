@@ -27,7 +27,7 @@
 <li><span style="font-size:12px;">Selling foreign workers to Czech companies</span></li>
 </ul>
 <p><span style="font-size:12px;">2/2015 &ndash; 5/2015: <strong>Czech Chamber of Commerce</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Business Support Intern</span></p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Business Support Intern</span></p>
 <ul>
 <li><span style="font-size:12px;">Certification of international trade documents</span></li>
 <li><span style="font-size:12px;">Creating ATA countries internal database</span></li>
@@ -35,7 +35,7 @@
 <li><span style="font-size:12px;">CzechPOINT assistance</span></li>
 </ul>
 <p><span style="font-size:12px;">7/2014 &ndash; 8/2014: <strong>AMI Communications, spol. s r.o.</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PR Intern</span></p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PR Intern</span></p>
 <ul>
 <li><span style="font-size:12px;">Writing PR articles and press releases</span></li>
 <li>Creating new PR campaigns and strategies</li>
@@ -43,19 +43,19 @@
 <li><span style="font-size:12px;">Administrative and office support</span></li>
 </ul>
 <p><span style="font-size:12px;">3/2014 &ndash; 6/2014: <strong>AIESEC Prague</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Project Coordinator</span></p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Project Coordinator</span></p>
 <ul>
 <li><span style="font-size:12px;">Organizing multicultural project EDISON for elementary and high schools</span></li>
 </ul>
 <p>&nbsp;</p>
 ##Education
 <p><span style="font-size:12px;">2016 &ndash; 2017: <strong>Tilburg University</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Economics, MSc</span></p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Economics, MSc</span></p>
 <p>2012 &ndash; 2016: <strong>University of Economics, Prague</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Economics, Bc.</p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Economics, Bc.</p>
 <p><span style="font-size:12px;">2014 &ndash; 2015: <strong>Hochschule Luzern</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;International Management &amp; Economics<br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Swiss European Mobility Programme</span></p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;International Management &amp; Economics<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Swiss European Mobility Programme</span></p>
 <p>&nbsp;</p>
 ##Certificates
 <p><span style="font-size:12px;">2015: <strong>Certificate i</strong></span><strong>n Advanced English&nbsp;(CAE)</strong><br />
