@@ -44,9 +44,9 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Swiss European Mobility Programme</p>
 <p>&nbsp;</p>
 ##Certificates
-2015: <strong>Certificate in Advanced English&nbsp;(CAE)</strong><br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Score: 191 (C1)
-2011: <strong>European driving licence (category B)</strong>
+<p>2015: <strong>Certificate in Advanced English&nbsp;(CAE)</strong><br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Score: 191 (C1)</p>
+<p>2011: <strong>European driving licence (category B)</strong></p>
 <p>&nbsp;</p>
 ##Other Knowledge and Skills
 <strong>Language Skills</strong>
@@ -59,10 +59,11 @@
 MS Office 365, CRM databases, Money S5<br />
 MS Excel: VBA programming, Pivot Tables, Advanced Filters<br />
 Econometric software: EViews, Stata, Gretl
-<strong>Summer Camp Leader</strong> (2011-2013)
-<strong>Hobbies and Interests</strong>
-Economic and political history, worldwide economic development, labour market, human capital
-Sports: cycling, rock climbing, running, Street Workout, cross-country skiing, Krav Maga
+<p><strong>Summer Camp Leader</strong> (2011-2013)</p>
+<p>&nbsp;</p>
+##Hobbies and Interests
+<p>Economic and political history, worldwide economic development, labour market, human capital</p>
+<p>Sports: cycling, rock climbing, running, Street Workout, cross-country skiing, Krav Maga</p>
 <p>&nbsp;</p>
 <table align="right" cellpadding="0" cellspacing="0" hspace="0" vspace="0">
 	<tbody>
