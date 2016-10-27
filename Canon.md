@@ -53,19 +53,19 @@ Pension systems are also subject to risks, ranging from macroeconomic shocks (su
 ##Sustainable PAYG
 Due to the increased burden on workers caused by the ageing population, politicians may favour changing the PAYG system to a funded system. However, transforming the current PAYG to funded system has many obstacles and the results are uncertain. In particular, when PAYG is well established and the economy is too big to easily make such a structural reform. It is therefore not surprising that many economists favor partial reforms rather than dismantling the whole PAYG scheme [10](http://onlinelibrary.wiley.com/doi/10.1111/1468-246X.00122/abstract). The most common proposals how to make the pension system sustainable are the following:
 
-###Higher contribution rate or lower benefits
+###1) Higher contribution rate or lower benefits
 Obviously, this is the basic straightforward way how to solve any pressures in government budget. Nevertheless, any increase in compulsory payments is highly unpopular and therefore hardly obtains political support. After all, workers do not favor paying more for the elderly generation than they will ever receive themselves. From their point of view, private savings may seem to be much more profitable then [11](http://www.nber.org/papers/w6149). The same applies to lowering the retirement benefits.
 
-###Increase in retirement age
+###2) Increase in retirement age
 A way of solving the government deficit is by increasing the retirement age. This way people pay taxes for additional years and receive benefits for fewer years. Neither this solution is popular in society. Its main advantage is, however, that it may be accepted for its fairness. Considering the substantial increase in longevity during the past decades, holding the same age of retirement would mean more years of receiving pension benefits while the number of working years would be the same. Policies increasing the retirement age are adopted worldwide; either by one-shot decisions or as a long-term policy gradually increasing the limit according to changes in life expectancy [12](http://www.economist.com/node/2085219).
 
-###Notional Defined Contribution
+###3) Notional Defined Contribution
 As already mentioned in the first section, this pension scheme takes over many advantages of funded pensions without obstacles and painful decisions related to full transformation. Since the size of benefits paid is flexible and dependent on the amount paid during lifetime, life expectancy and expected notional interest rate, such a system seems to be relatively fair and stable [13]( http://dare.uva.nl/cgi/arno/show.cgi?fid=133250).
 
-###Increase the productivity of workers
+###4) Increase the productivity of workers
 This is indeed the most desirable solution. Workers producing more are also paying more to the pensions’ budget without increasing the contribution rate. Unfortunately, increasing the productivity by various government policies has always been desirable for plenty of reasons, yet mostly with dubious results. It is also a costly long-term project, so there will be no immediate results for the pension system problems.
 
-###Increase the number of workers
+###5) Increase the number of workers
 There are various ways how to reach this goal; from labor market policies lowering unemployment up to increasing retirement age as more former retirees are still working. Another way is to import foreign workers through relaxed immigration rules. Immigration of work force increases the working population in a country and it will be more likely that the jobs of the retirees are filled.
 
 ##Application
