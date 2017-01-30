@@ -41,8 +41,6 @@ Another force that contributes to the ageing population in many nations is the i
 
 Despite this sizeable increase in life expectancy the age of retirement from the end of the Second World War until recently has barely changed in most Western countries. In some cases, the retirement age even decreased in order to make room for younger workers. As a result, the years of retirement have increased by six years for the OECD countries. The decreasing fertility rate, increasing life expectancy and sluggish decision making with regards to eligibility for pension benefits combined, are increasing the amount of money needed to sustain the current pension systems. With the current population growth, the ratio of workers per retiree will decrease to less than two in 2060 [(9)](http://ec.europa.eu/economy_finance/publications/european_economy/2012/pdf/ee-2012-2_en.pdf) for the European Union countries. Imagine that each family with two working parents not only have to take care of their children but also one retiree.
 
-But how exactly do these problems manifest themselves? The impact of an ageing population on pensions is following.
-
 ##Government Debt And Pensions
 As mentioned, pension systems are subject to risks, ranging from macroeconomic shocks (such as a financial crisis) to political and longevity risks.
 
