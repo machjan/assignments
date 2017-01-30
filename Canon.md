@@ -107,14 +107,11 @@ In 2016, the Netherlands had around 17,000,000 inhabitants and around 16% of the
   </head>
 
   <body>
-    
-    <div style="position:absolute; left:77; top:77; width:377; height:377; clip:rect(0,381,381,0); background:#FFF;">
-     <div class="fixed">FIXED NAVIGATION BAR</div>
+ 
      
      <iframe id="x" src="http://data.worldbank.org/share/widget?indicators=SP.DYN.TFRT.IN&locations=NL" width="600" height="800" marginwidth="0" marginheight="0" frameborder="no" scrolling="yes">
      </iframe>
     
-    </div>
   </body>
 
 </html>
