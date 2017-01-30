@@ -81,7 +81,7 @@ Some would say the only sustainable solution is to increase the fertility above 
 
 One of the possible reasons for that, could be too generous pension systems, as noted in Introduction. Galasso, Gatti, & Profeta (2009) provide both mathematical and empirical proofs that generous public pensions lead to lower fertility as the economic role of family is undermined [(22)](http://link.springer.com/article/10.1007/s10797-009-9104-5). Hence, according to their results, reducing the pension benefits as proposed under the first point could have both direct and indirect effect on sustainability of the PAYG pension system. 
 
-##Sustainable Funded System [(23)](https://global.oup.com/academic/product/reforming-pensions-9780195311303?cc=nl&lang=en&)
+##Limitations and Risks of Funded Systems [(23)](https://global.oup.com/academic/product/reforming-pensions-9780195311303?cc=nl&lang=en&)
 Even though nowadays there are rising arguments for the funded system, there are in fact sustainability issues linked with the funded system as well. In the unfortunate occurrence of an extreme financial events such as recessions, market inefficiencies, low interest rate returns, etc., fully funded systems can be sensitive and prone to failures. Here are some likely scenarios that may cause the unsustainability of the system:
 
 ###1)	Risks under financial crisis or market inefficiencies
