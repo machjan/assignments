@@ -100,10 +100,7 @@ A funded system may not be feasible if a country lacks the appropriate instituti
 ###Demographic transition of the Netherlands
 In 2016, the Netherlands had around 17,000,000 inhabitants and around 16% of the population was elderly, meaning they are over 65 years [(24)](https://www.cbs.nl/en-gb). Just after the Second World War the population almost doubled from 5.1 million to 10 million people due to baby boom effect. However, after that time, birth rates strongly decreased while life expectancy went up. How these numbers have changed over time is shown in the graphs below.
 
-<!DOCTYPE html>
-<html>
-http://data.worldbank.org/share/widget?indicators=SP.DYN.TFRT.IN&locations=NL
-</html>
+<div data-inject-src="http://data.worldbank.org/share/widget?indicators=SP.DYN.TFRT.IN&locations=NL" style="height: 300px;"> </div>
 
 As can be seen, the Netherlands faced similar demographic changes as most OECD and EU countries as was explained earlier. With less people born while the life expectancy is increasing the population is ageing which implies an increasing dependency ratio in the Netherlands. 
 
