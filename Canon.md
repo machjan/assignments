@@ -102,7 +102,7 @@ In 2016, the Netherlands had around 17,000,000 inhabitants and around 16% of the
 
 
 
-<iframe src="http://data.worldbank.org/share/widget?indicators=SP.DYN.LE00.IN&locations=NL" width='450' height='300' frameBorder='0' scrolling="no">sometext</iframe>
+<iframe src="http://data.worldbank.org/share/widget?indicators=SP.DYN.LE00.IN&locations=NL" width='450' height='300' frameBorder='10' scrolling="yes">sometext</iframe>
 
 As can be seen, the Netherlands faced similar demographic changes as most OECD and EU countries as was explained earlier. With less people born while the life expectancy is increasing the population is ageing which implies an increasing dependency ratio in the Netherlands. 
 
